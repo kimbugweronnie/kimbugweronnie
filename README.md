@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimbugweronnie
-- 👀 I’m a software engineer with PHP/python/SQL/Airflow/Spark
+- 👀 I’m a software engineer with PHP/python/SQL
 - 🌱 Data Engineering Enthusiast | Cloud & Automation Enthusiast
 -  🌱 Blockchain Fan
 - 💞️ I’m looking to collaborate on backend engineering/data engineering and Blockchain
