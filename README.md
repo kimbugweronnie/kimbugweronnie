@@ -2,7 +2,7 @@
 - 👀 I’m a software engineer with PHP/python/SQL
 - 🌱 Data Engineering Enthusiast | Cloud & Automation Enthusiast
 -  🌱 Blockchain Fan
-- 💞️ I’m looking to collaborate on backend engineering/data engineering and Blockchain
+- 💞️ I’m looking to collaborate on  web2 applications  and Web3
 - 📫 Reach me on kimbugweronnie@gmail.com
 
 <!---
