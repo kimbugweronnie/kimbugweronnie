@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimbugweronnie
-- 👀 I’m a software engineer with PHP/VueJS/SQL
+- 👀 I’m a software engineer with PHP/VueJS/SQL Experience
 - 🌱 Data Engineering Enthusiast | Cloud & AI Enthusiast
 -  🌱 Blockchain Fan
 - 💞️ I’m looking to collaborate on  web2 applications  and Web3
